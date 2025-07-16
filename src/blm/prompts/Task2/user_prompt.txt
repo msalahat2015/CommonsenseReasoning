@@ -1,0 +1,9 @@
+You are given a statement and three potential reasons why this statement is against common sense. Select the single numerical label (0, 1, or 2) corresponding to the most accurate reason.
+
+Statement: {statement}
+
+0: {reason1}
+1: {reason2}
+2: {reason3}
+
+Respond with only the label number.

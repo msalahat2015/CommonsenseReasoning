@@ -1,0 +1,7 @@
+Statement: {statement}
+
+Explain in natural language why this statement is against common sense by providing exactly three distinct reasons. Respond **in Arabic** :
+
+[Your first reason here]
+[Your second reason here]
+[Your third reason here]

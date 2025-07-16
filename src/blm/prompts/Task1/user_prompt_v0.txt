@@ -1,0 +1,7 @@
+You are given two sentences, each starting with an index:
+0 {sentence1}
+1 {sentence2}
+
+Your task is to determine which sentence better reflects common sense. You must choose only one option, either 0 or 1 — no ties, no explanations.
+
+Your final response must consist of only the number "0" or "1" as the last character in your reply.

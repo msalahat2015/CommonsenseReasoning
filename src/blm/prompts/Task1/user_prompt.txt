@@ -1,0 +1,5 @@
+You are given two sentences, each starting with an index:
+0 {sentence1}
+1 {sentence2}
+
+Your task is to determine which sentence better reflects common sense. Respond with either "Sentence 0." or "Sentence 1."
